@@ -1,0 +1,40 @@
+baseURL = 'https://alukens.com/'
+languageCode = 'en-us'
+title = 'Alex Lukens'
+theme = 'archie'
+copyright = '© alukens.com'
+
+pygmentsstyle = 'monokai'
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  mode = 'auto'
+  useCDN = false
+  mainSections = ['posts']
+
+[[params.social]]
+  name = 'Email'
+  icon = 'mail'
+  url = 'mailto:alexdlukens@gmail.com'
+
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  name = 'About'
+  url = '/about'
+  weight = 2
+
+[[menu.main]]
+  name = 'Timeline'
+  url = '/timeline'
+  weight = 3
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/alexdlukens"
+
