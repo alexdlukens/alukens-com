@@ -1,13 +1,11 @@
 +++
 title = "local-ai-search-provider: A GNOME Shell Extension for querying AI"
-description = "Decode QR codes from an image, a URL, or a live webcam — all inside the terminal."
+description = "a GNOME extension that adds integration for querying AI from the GNOME shell search (Super-key menu)"
 date = "2026-11-20"
 tags = ["linux", "ai", "projects"]
 +++
- 
-> This project was implemented fully with Generative AI, with human input for feature proposals + developement
->
-> Notably, the Deepseek V4.1 Flash 1017 model, served from [Opencode Go](https://opencode.ai/go)
+
+{{< callout type="custom" emoji="⚡️" title="AI Disclosure" text="This project was implemented fully with Generative AI, with human input for feature proposals + development. Notably, the Deepseek V4.1 Flash 1017 model, served from Opencode Go" style="background-color: transparent; border: 3px solid #d340e0;" >}} 
 
 [local-ai-search-provider](https://github.com/alexdlukens/local-ai-search-provider) is a GNOME extension that adds integration for querying AI from the GNOME shell search (Super-key menu) 
 
